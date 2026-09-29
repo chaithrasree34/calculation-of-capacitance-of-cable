@@ -1,1 +1,0 @@
-# calculation-of-capacitance-of-cable
